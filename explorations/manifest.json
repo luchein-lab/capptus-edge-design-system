@@ -1,0 +1,230 @@
+{
+  "status": "Exploration release; production approvals remain open",
+  "files": [
+    {
+      "path": "assets/README.md",
+      "bytes": 571,
+      "sha256": "996ebb8ed446323dbe19a3a07198f7a91ccbd2a3550e0c869328b3e7c6664262"
+    },
+    {
+      "path": "assets/logo/capptus-original.png",
+      "bytes": 14336,
+      "sha256": "55f5309be7b3d0e8c36c35c99188a98a6451e15c461bf03ea815af8fb2c73886"
+    },
+    {
+      "path": "explorations/README.md",
+      "bytes": 626,
+      "sha256": "9425ad8ff568ea5fa7f5aae555c036004f5d7ef3e7499d6fd3187aad531454a7"
+    },
+    {
+      "path": "explorations/baja-collage-series-v1/README.md",
+      "bytes": 1418,
+      "sha256": "00afc6dc09648144436493074af84182eaa5f84b6ce763cdb6700422411db1f7"
+    },
+    {
+      "path": "explorations/baja-collage-series-v1/contact-sheet.png",
+      "bytes": 2787596,
+      "sha256": "c56841561e582b1d2eda23d6ef8c8e57a0ec3e14dd83b3d2447392608daceb0c"
+    },
+    {
+      "path": "explorations/baja-collage-series-v1/images/01-cardon-and-cove.png",
+      "bytes": 3170229,
+      "sha256": "837be177acb3d7052d385a7794531c785eac586d548621cf83ad9a2044ddfd2e"
+    },
+    {
+      "path": "explorations/baja-collage-series-v1/images/02-dunes-and-bloom.png",
+      "bytes": 2877833,
+      "sha256": "602e90c787a05809de4917810fef60dc00938109706a1328f66e68274f8c9e0c"
+    },
+    {
+      "path": "explorations/baja-collage-series-v1/images/03-tidal-stone.png",
+      "bytes": 3585900,
+      "sha256": "4796f262f87a6a756820538a5b8f18250a64da191fe15ecb999c4c1fcae1b510"
+    },
+    {
+      "path": "explorations/baja-collage-series-v1/images/04-desert-spines.png",
+      "bytes": 3098036,
+      "sha256": "c939c597acf84f5c8588ab88090a295202444af88cdb1483d5152035646213a0"
+    },
+    {
+      "path": "explorations/baja-collage-series-v1/images/05-coastal-horizon.png",
+      "bytes": 3171785,
+      "sha256": "d434ca1deef822a27977d2a2ea01e623d033f4967a1873b33a647be74bb47a6e"
+    },
+    {
+      "path": "explorations/baja-collage-series-v1/images/06-mineral-arch.png",
+      "bytes": 3316401,
+      "sha256": "dcf7ed39fc6fb9edae4e51e539d67733dd0d61c2624f87e05a0551ca3de6dfa5"
+    },
+    {
+      "path": "explorations/baja-collage-series-v1/manifest.json",
+      "bytes": 2144,
+      "sha256": "51dbc1e350cfe2809ff1b0990b75f1d8dc3cfbc8f0ba362d47a0431b6f696f0f"
+    },
+    {
+      "path": "explorations/baja-collage-series-v1/prompts.json",
+      "bytes": 11275,
+      "sha256": "ec7797f2292469e416dcb709ad03ca6d09e8752118911142d571492348356cb9"
+    },
+    {
+      "path": "explorations/creative-territory-v2/Capptus-Edge-Creative-Territory-v2.pdf",
+      "bytes": 14576678,
+      "sha256": "3ef2d9b4571c185c37c65daccfe6a6069b63878be3208ea6cace9e33889a2d72"
+    },
+    {
+      "path": "explorations/creative-territory-v2/Capptus-Edge-Creative-Territory-v2.png",
+      "bytes": 8554314,
+      "sha256": "7a512738ed453207b10d01d9d40e36cc3af7832983848f5763f56edbb5da928c"
+    },
+    {
+      "path": "explorations/creative-territory-v2/Capptus-Edge-Creative-Territory-v2.svg",
+      "bytes": 11042515,
+      "sha256": "19c830db6c64174a82ae19d26d791b488bf3f8c82cd44ca1dc9fbfe089cbaacd"
+    },
+    {
+      "path": "explorations/creative-territory-v2/README.md",
+      "bytes": 2808,
+      "sha256": "6f86d9c9dcf3872fbe44b8b4a7cd0ae3d5f4cd36a94f1964e257a268c0b6de3f"
+    },
+    {
+      "path": "explorations/creative-territory-v2/assets/01-baja-editorial.png",
+      "bytes": 3177161,
+      "sha256": "f3931bb5f80011455daf24008727f24b92cc9f4018b211a0528be2b38c10e8a4"
+    },
+    {
+      "path": "explorations/creative-territory-v2/assets/02-creator-portrait.png",
+      "bytes": 2201478,
+      "sha256": "be831e9e24c0667949a5dfb8df708f1b3b6e598ef85cb0e0410f120b320a26df"
+    },
+    {
+      "path": "explorations/creative-territory-v2/assets/03-material-wave.png",
+      "bytes": 2692708,
+      "sha256": "872e2358143b5456af7a0d91bc0bf036585351ff274a57a749a21b9107f835a8"
+    },
+    {
+      "path": "explorations/creative-territory-v2/assets/flow-lines-ink.svg",
+      "bytes": 20704,
+      "sha256": "55176ee818419efb98f05b14d6e1500e2f1856000f70d5f9e9b392ca96690348"
+    },
+    {
+      "path": "explorations/creative-territory-v2/assets/flow-lines-light.svg",
+      "bytes": 19726,
+      "sha256": "248c2b08e00e2c4a9f0f37cb31b0995adf2dbcb87a83fb0541cb2c54edf17040"
+    },
+    {
+      "path": "explorations/creative-territory-v2/assets/mineral-gradient.svg",
+      "bytes": 314,
+      "sha256": "26632fe2587ffb304aa5e92084f91ca7b9920c55e6d5676e3dcba124f90aaa2c"
+    },
+    {
+      "path": "explorations/creative-territory-v2/prompts.json",
+      "bytes": 3761,
+      "sha256": "050a1339b48c625929238e82b9248774ce05428c25c95386c06ea26d8f1176a4"
+    },
+    {
+      "path": "explorations/edge-brand-board-v1/Capptus-Edge-Brand-Board-v1.pdf",
+      "bytes": 28386177,
+      "sha256": "e2cd42092b9de8837e9beddd1458e1962a57850dd9c6c59a578909a11c0b1191"
+    },
+    {
+      "path": "explorations/edge-brand-board-v1/Capptus-Edge-Brand-Board-v1.png",
+      "bytes": 7714689,
+      "sha256": "e0102b4813a5d7282db20bfb86a9f693642a5b66e8d4db9d6d7fd8141e89af9c"
+    },
+    {
+      "path": "explorations/edge-brand-board-v1/Capptus-Edge-Brand-Board-v1.svg",
+      "bytes": 22809393,
+      "sha256": "3bc01da1781354a6329a2d39d62712f59fc854b2c48b6145946273ad5cd1a202"
+    },
+    {
+      "path": "explorations/edge-brand-board-v1/README.md",
+      "bytes": 2175,
+      "sha256": "7d0a0e0d1699451c95f0293c7652af3695ea5d4338ddae1d7a552bb12e5fe332"
+    },
+    {
+      "path": "explorations/edge-brand-board-v1/assets/billboard.png",
+      "bytes": 2870121,
+      "sha256": "8ee9037258486a666799081c47ea907e9c6ae52b31904ca62197dd0b71a2f0be"
+    },
+    {
+      "path": "explorations/edge-brand-board-v1/assets/hoodie.png",
+      "bytes": 2322847,
+      "sha256": "300686e5b7d5d219bf1894c050bcaf2b7f61f9cea25cd9e705cc41faa4f516c0"
+    },
+    {
+      "path": "explorations/edge-brand-board-v1/prompts.json",
+      "bytes": 1515,
+      "sha256": "bcd00ae7940acca52590616d73e99dd4c442e865bbb715ea5cd250f2ec0042b2"
+    },
+    {
+      "path": "explorations/raw-bloom-image-series-v1/README.md",
+      "bytes": 2156,
+      "sha256": "c28efa460ea0279e37f3f7998cbf7a95da0e8e25b2c7f15da67f400536a3a14f"
+    },
+    {
+      "path": "explorations/raw-bloom-image-series-v1/contact-sheet.png",
+      "bytes": 4287280,
+      "sha256": "1637ee7047278a365a717ddad9c31e7c847510abf9ad16526e137ee38a8eab32"
+    },
+    {
+      "path": "explorations/raw-bloom-image-series-v1/images/01-coastal-pulse.png",
+      "bytes": 2808182,
+      "sha256": "a6290a0e92ccaaad92508c4647305dd484a1aaadfc749e492535b2a9fd9df795"
+    },
+    {
+      "path": "explorations/raw-bloom-image-series-v1/images/02-hands-in-the-making.png",
+      "bytes": 2814419,
+      "sha256": "da181d1b24aeb1de580966946d8d7abd74ccd2cda48cdee77c9b65a5c6309361"
+    },
+    {
+      "path": "explorations/raw-bloom-image-series-v1/images/03-human-frequency.png",
+      "bytes": 2556340,
+      "sha256": "6c61182d750588ee381b58a45ec722c6ff24de528c6e49ee2733a5d338862db5"
+    },
+    {
+      "path": "explorations/raw-bloom-image-series-v1/images/04-ideas-in-conversation.png",
+      "bytes": 2336159,
+      "sha256": "8a23b35bfa2af96b3ecbfc4ca5495ccc0f8ef67faf0cdef1017dbe21cf865507"
+    },
+    {
+      "path": "explorations/raw-bloom-image-series-v1/images/05-resilient-bloom.png",
+      "bytes": 2454690,
+      "sha256": "1e3f493c7d80297e7e478e41d4379879e8fa9a70f00cfb300a9cde50d3ece3fc"
+    },
+    {
+      "path": "explorations/raw-bloom-image-series-v1/images/06-ribbon-ascent.png",
+      "bytes": 2226731,
+      "sha256": "9a7f6fab5a91dfcfb2099b535951a52cf8905dc718f27ffeae1e0c67b18832fd"
+    },
+    {
+      "path": "explorations/raw-bloom-image-series-v1/images/07-tension-and-flow.png",
+      "bytes": 2396805,
+      "sha256": "538e1055dd926f6bfc7c9885c74f7c4edb526458ab85216874a9f6191a7fb936"
+    },
+    {
+      "path": "explorations/raw-bloom-image-series-v1/images/08-mineral-light.png",
+      "bytes": 3663900,
+      "sha256": "64ab5217801e1bc8d6167c64a9475c7afb296ea63d74eddd79dbb14690ba27ab"
+    },
+    {
+      "path": "explorations/raw-bloom-image-series-v1/images/09-human-momentum.png",
+      "bytes": 2656248,
+      "sha256": "13c90fd92a22b2c54fb40bff2e9551c40f2c094e72e758fd24efe685fc77fdfc"
+    },
+    {
+      "path": "explorations/raw-bloom-image-series-v1/images/10-reflected-material.png",
+      "bytes": 3080661,
+      "sha256": "b97710164b42bdc53aa642a2d5af737631c01d6412596a8d2806fcfbfb1a78e1"
+    },
+    {
+      "path": "explorations/raw-bloom-image-series-v1/manifest.json",
+      "bytes": 3467,
+      "sha256": "93cb470770e595e95bf23ede9ec9753366ae7ec5087a173cabe81b23924ec45b"
+    },
+    {
+      "path": "explorations/raw-bloom-image-series-v1/prompts.json",
+      "bytes": 15800,
+      "sha256": "5e74a8ed89700bf095ac6c9978045e2508210862b52bf46aa9213a43e60d2eb0"
+    }
+  ]
+}

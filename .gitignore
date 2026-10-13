@@ -1,0 +1,23 @@
+# Local operating-system files
+.DS_Store
+Thumbs.db
+
+# Generated previews and review outputs
+/output/
+/tmp/
+
+# Original reference materials: review distribution before adding to GitHub
+/CapptusEge.inspo.png
+/Copy of Capptus Edge _ Menos Ruido, Más Crecimiento.pdf
+
+# Future dependency/build output
+node_modules/
+dist/
+coverage/
+__pycache__/
+*.pyc
+
+# Local secrets
+.env
+.env.*
+!.env.example

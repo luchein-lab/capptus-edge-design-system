@@ -1,0 +1,60 @@
+{
+  "collection": "Raw Bloom / In Motion — six Baja collages",
+  "count": 6,
+  "assets": [
+    {
+      "name": "01-cardon-and-cove",
+      "path": "images/01-cardon-and-cove.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "837be177acb3d7052d385a7794531c785eac586d548621cf83ad9a2044ddfd2e",
+      "source": "Built-in image generation",
+      "status": "Concept Baja landscape collage, not documentary geography"
+    },
+    {
+      "name": "02-dunes-and-bloom",
+      "path": "images/02-dunes-and-bloom.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "602e90c787a05809de4917810fef60dc00938109706a1328f66e68274f8c9e0c",
+      "source": "Built-in image generation",
+      "status": "Concept Baja landscape collage, not documentary geography"
+    },
+    {
+      "name": "03-tidal-stone",
+      "path": "images/03-tidal-stone.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "4796f262f87a6a756820538a5b8f18250a64da191fe15ecb999c4c1fcae1b510",
+      "source": "Built-in image generation",
+      "status": "Concept Baja landscape collage, not documentary geography"
+    },
+    {
+      "name": "04-desert-spines",
+      "path": "images/04-desert-spines.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "c939c597acf84f5c8588ab88090a295202444af88cdb1483d5152035646213a0",
+      "source": "Built-in image generation",
+      "status": "Concept Baja landscape collage, not documentary geography"
+    },
+    {
+      "name": "05-coastal-horizon",
+      "path": "images/05-coastal-horizon.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "d434ca1deef822a27977d2a2ea01e623d033f4967a1873b33a647be74bb47a6e",
+      "source": "Built-in image generation",
+      "status": "Concept Baja landscape collage, not documentary geography"
+    },
+    {
+      "name": "06-mineral-arch",
+      "path": "images/06-mineral-arch.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "dcf7ed39fc6fb9edae4e51e539d67733dd0d61c2624f87e05a0551ca3de6dfa5",
+      "source": "Built-in image generation",
+      "status": "Concept Baja landscape collage, not documentary geography"
+    }
+  ]
+}

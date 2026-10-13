@@ -1,0 +1,23 @@
+{
+  "reviewed_on": "2026-10-08",
+  "sources": [
+    {
+      "id": "R01",
+      "path": "CapptusEge.inspo.png",
+      "kind": "exploratory moodboard",
+      "sha256": "fa4222493ebf403490b8cb27f3c455b5051d11558883d83f2c132049f2b693fd",
+      "bytes": 2273852,
+      "origin": "User-supplied project file",
+      "distribution": "Local reference; excluded from Git by default pending publication review"
+    },
+    {
+      "id": "R02",
+      "path": "Copy of Capptus Edge _ Menos Ruido, Más Crecimiento.pdf",
+      "kind": "credentials deck",
+      "sha256": "607b36233ff123252e3ec411b9ae26f79fbb03bd76f004e8d5141c2de8ab5cf2",
+      "bytes": 3463062,
+      "origin": "User-supplied project file",
+      "distribution": "Local reference; excluded from Git by default pending publication review"
+    }
+  ]
+}

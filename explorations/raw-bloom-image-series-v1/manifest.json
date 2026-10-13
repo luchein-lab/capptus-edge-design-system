@@ -1,0 +1,96 @@
+{
+  "collection": "Raw Bloom / In Motion — ten additional images",
+  "count": 10,
+  "assets": [
+    {
+      "name": "01-coastal-pulse",
+      "path": "images/01-coastal-pulse.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "a6290a0e92ccaaad92508c4647305dd484a1aaadfc749e492535b2a9fd9df795",
+      "source": "Built-in image generation",
+      "status": "Concept image; fictional people where applicable"
+    },
+    {
+      "name": "02-hands-in-the-making",
+      "path": "images/02-hands-in-the-making.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "da181d1b24aeb1de580966946d8d7abd74ccd2cda48cdee77c9b65a5c6309361",
+      "source": "Built-in image generation",
+      "status": "Concept image; fictional people where applicable"
+    },
+    {
+      "name": "03-human-frequency",
+      "path": "images/03-human-frequency.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "6c61182d750588ee381b58a45ec722c6ff24de528c6e49ee2733a5d338862db5",
+      "source": "Built-in image generation",
+      "status": "Concept image; fictional people where applicable"
+    },
+    {
+      "name": "04-ideas-in-conversation",
+      "path": "images/04-ideas-in-conversation.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "8a23b35bfa2af96b3ecbfc4ca5495ccc0f8ef67faf0cdef1017dbe21cf865507",
+      "source": "Built-in image generation",
+      "status": "Concept image; fictional people where applicable"
+    },
+    {
+      "name": "05-resilient-bloom",
+      "path": "images/05-resilient-bloom.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "1e3f493c7d80297e7e478e41d4379879e8fa9a70f00cfb300a9cde50d3ece3fc",
+      "source": "Built-in image generation",
+      "status": "Concept image; fictional people where applicable"
+    },
+    {
+      "name": "06-ribbon-ascent",
+      "path": "images/06-ribbon-ascent.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "9a7f6fab5a91dfcfb2099b535951a52cf8905dc718f27ffeae1e0c67b18832fd",
+      "source": "Built-in image generation",
+      "status": "Concept image; fictional people where applicable"
+    },
+    {
+      "name": "07-tension-and-flow",
+      "path": "images/07-tension-and-flow.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "538e1055dd926f6bfc7c9885c74f7c4edb526458ab85216874a9f6191a7fb936",
+      "source": "Built-in image generation",
+      "status": "Concept image; fictional people where applicable"
+    },
+    {
+      "name": "08-mineral-light",
+      "path": "images/08-mineral-light.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "64ab5217801e1bc8d6167c64a9475c7afb296ea63d74eddd79dbb14690ba27ab",
+      "source": "Built-in image generation",
+      "status": "Concept image; fictional people where applicable"
+    },
+    {
+      "name": "09-human-momentum",
+      "path": "images/09-human-momentum.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "13c90fd92a22b2c54fb40bff2e9551c40f2c094e72e758fd24efe685fc77fdfc",
+      "source": "Built-in image generation",
+      "status": "Concept image; fictional people where applicable"
+    },
+    {
+      "name": "10-reflected-material",
+      "path": "images/10-reflected-material.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "b97710164b42bdc53aa642a2d5af737631c01d6412596a8d2806fcfbfb1a78e1",
+      "source": "Built-in image generation",
+      "status": "Concept image; fictional people where applicable"
+    }
+  ]
+}
