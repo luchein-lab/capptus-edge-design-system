@@ -1,5 +1,7 @@
 # Reference notes
 
+Historical source observations. The current system is [Mineral Bloom](../design.md), selected on 23 October 2026. The earlier values and unresolved questions below describe the original reference review, not current tokens. The original logo and font families have since been resolved; see the decision log.
+
 Reviewed 8 October 2026. Evidence below comes from the two files listed in the source manifest. Observations describe the supplied material, not final approvals or independently verified commercial claims.
 
 ## R01 — CapptusEge.inspo.png

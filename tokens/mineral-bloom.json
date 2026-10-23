@@ -1,0 +1,32 @@
+{
+  "name": "Capptus Mineral Bloom",
+  "version": "1.0.0",
+  "status": "Selected repository baseline, 23 October 2026",
+  "scope": "Company-wide Capptus visual direction",
+  "color": {
+    "limestone": {"value": "#F3E8D7", "role": "Foundation and primary surface"},
+    "mineral-ink": {"value": "#23332F", "role": "Text, structure and dark surfaces"},
+    "warm-coral": {"value": "#E89B86", "role": "Leading expressive colour"},
+    "sun-citron": {"value": "#D5D83E", "role": "Small energetic accents"},
+    "signature-blue": {"value": "#0094E2", "role": "Small recurring signature details; not body text on limestone"}
+  },
+  "semantic": {
+    "surface": "limestone",
+    "text": "mineral-ink",
+    "surface-inverse": "mineral-ink",
+    "text-inverse": "limestone",
+    "expression": "warm-coral",
+    "accent": "sun-citron",
+    "signature": "signature-blue",
+    "action": "mineral-ink",
+    "on-action": "limestone",
+    "focus": "mineral-ink"
+  },
+  "typography": {
+    "display": {"family": "Bricolage Grotesque", "fallback": "sans-serif", "weight": 700, "role": "Headlines and expressive display"},
+    "body": {"family": "Manrope", "fallback": "sans-serif", "weight": 400, "role": "Body, labels and controls"},
+    "label": {"family": "Manrope", "fallback": "sans-serif", "weight": 600, "role": "Short labels and emphasis"}
+  },
+  "implementation_note": "Semantic aliases and font weights document this reference implementation. The selected palette and font families do not establish a complete product component library.",
+  "logo_note": "Use assets/logo/capptus-original.png unchanged. The signature-blue token does not authorize recolouring the artwork."
+}

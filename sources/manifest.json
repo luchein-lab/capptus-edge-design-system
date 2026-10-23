@@ -1,5 +1,5 @@
 {
-  "reviewed_on": "2026-10-08",
+  "reviewed_on": "2026-10-23",
   "sources": [
     {
       "id": "R01",
@@ -12,12 +12,68 @@
     },
     {
       "id": "R02",
-      "path": "Copy of Capptus Edge _ Menos Ruido, Más Crecimiento.pdf",
+      "path": "Copy of Capptus Edge _ Menos Ruido, M\u00e1s Crecimiento.pdf",
       "kind": "credentials deck",
       "sha256": "607b36233ff123252e3ec411b9ae26f79fbb03bd76f004e8d5141c2de8ab5cf2",
       "bytes": 3463062,
       "origin": "User-supplied project file",
       "distribution": "Local reference; excluded from Git by default pending publication review"
+    },
+    {
+      "id": "R03",
+      "path": "Capptus-Edge-Brand-Board-v1.pdf",
+      "kind": "user-selected layout reference for Signature Bloom board",
+      "sha256": "e2cd42092b9de8837e9beddd1458e1962a57850dd9c6c59a578909a11c0b1191",
+      "origin": "User-selected layout reference for the historical Signature Bloom exploration; unchanged original retained locally",
+      "distribution": "Original retained at its supplied path; this entry does not authorize publication"
+    },
+    {
+      "id": "R04",
+      "path": "assets/imagery/baja/images/01-cardon-and-cove.png",
+      "kind": "user-selected Baja collage reference for company-wide palette exploration",
+      "sha256": "837be177acb3d7052d385a7794531c785eac586d548621cf83ad9a2044ddfd2e",
+      "origin": "User-selected Baja collage, adopted as a Mineral Bloom reference on 23 October 2026; unchanged from its original generated asset",
+      "distribution": "Already published conceptual image; retained in the selected system under current publication authorization"
+    },
+    {
+      "id": "R05",
+      "path": "assets/imagery/baja/images/02-dunes-and-bloom.png",
+      "kind": "user-selected Baja collage reference for company-wide palette exploration",
+      "sha256": "602e90c787a05809de4917810fef60dc00938109706a1328f66e68274f8c9e0c",
+      "origin": "User-selected Baja collage, adopted as a Mineral Bloom reference on 23 October 2026; unchanged from its original generated asset",
+      "distribution": "Already published conceptual image; retained in the selected system under current publication authorization"
+    },
+    {
+      "id": "R06",
+      "path": "assets/imagery/baja/images/03-tidal-stone.png",
+      "kind": "user-selected Baja collage reference for company-wide palette exploration",
+      "sha256": "4796f262f87a6a756820538a5b8f18250a64da191fe15ecb999c4c1fcae1b510",
+      "origin": "User-selected Baja collage, adopted as a Mineral Bloom reference on 23 October 2026; unchanged from its original generated asset",
+      "distribution": "Already published conceptual image; retained in the selected system under current publication authorization"
+    },
+    {
+      "id": "R07",
+      "path": "assets/imagery/baja/images/04-desert-spines.png",
+      "kind": "user-selected Baja collage reference for company-wide palette exploration",
+      "sha256": "c939c597acf84f5c8588ab88090a295202444af88cdb1483d5152035646213a0",
+      "origin": "User-selected Baja collage, adopted as a Mineral Bloom reference on 23 October 2026; unchanged from its original generated asset",
+      "distribution": "Already published conceptual image; retained in the selected system under current publication authorization"
+    },
+    {
+      "id": "R08",
+      "path": "assets/imagery/baja/images/05-coastal-horizon.png",
+      "kind": "user-selected Baja collage reference for company-wide palette exploration",
+      "sha256": "d434ca1deef822a27977d2a2ea01e623d033f4967a1873b33a647be74bb47a6e",
+      "origin": "User-selected Baja collage, adopted as a Mineral Bloom reference on 23 October 2026; unchanged from its original generated asset",
+      "distribution": "Already published conceptual image; retained in the selected system under current publication authorization"
+    },
+    {
+      "id": "R09",
+      "path": "assets/imagery/baja/images/06-mineral-arch.png",
+      "kind": "user-selected Baja collage reference for company-wide palette exploration",
+      "sha256": "dcf7ed39fc6fb9edae4e51e539d67733dd0d61c2624f87e05a0551ca3de6dfa5",
+      "origin": "User-selected Baja collage, adopted as a Mineral Bloom reference on 23 October 2026; unchanged from its original generated asset",
+      "distribution": "Already published conceptual image; retained in the selected system under current publication authorization"
     }
   ]
 }

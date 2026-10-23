@@ -1,5 +1,7 @@
 # Raw Bloom / In Motion — image series 01
 
+Historical collection. Superseded by [Mineral Bloom](../../../design.md) on 23 October 2026. Retained assets and descriptions below document the original exploration.
+
 Ten new standalone concept images for Capptus Edge, extending the reviewed creative territory. Generated 12 October 2026 with the built-in image-generation tool. All original generated PNGs are retained unchanged under images/.
 
 Baja materiality. Human expression. Digital momentum.

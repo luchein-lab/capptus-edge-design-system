@@ -1,0 +1,171 @@
+{
+  "status": "Superseded Raw Bloom exploration, retained for history",
+  "path_base": "repository root",
+  "files": [
+    {
+      "path": "archive/raw-bloom/README.md",
+      "bytes": 946,
+      "sha256": "ca10488a754122952a45e4ed4a9351a2ac1297a5c3bdfa539e1787d91a3253e0"
+    },
+    {
+      "path": "archive/raw-bloom/creative-territory-v2/Capptus-Edge-Creative-Territory-v2.pdf",
+      "bytes": 14576678,
+      "sha256": "3ef2d9b4571c185c37c65daccfe6a6069b63878be3208ea6cace9e33889a2d72"
+    },
+    {
+      "path": "archive/raw-bloom/creative-territory-v2/Capptus-Edge-Creative-Territory-v2.png",
+      "bytes": 8554314,
+      "sha256": "7a512738ed453207b10d01d9d40e36cc3af7832983848f5763f56edbb5da928c"
+    },
+    {
+      "path": "archive/raw-bloom/creative-territory-v2/Capptus-Edge-Creative-Territory-v2.svg",
+      "bytes": 11042515,
+      "sha256": "19c830db6c64174a82ae19d26d791b488bf3f8c82cd44ca1dc9fbfe089cbaacd"
+    },
+    {
+      "path": "archive/raw-bloom/creative-territory-v2/README.md",
+      "bytes": 2976,
+      "sha256": "aa9fa50c5472327f6978a5c7cbd43d45c53097b8071f48331feeb2420bd85a5c"
+    },
+    {
+      "path": "archive/raw-bloom/creative-territory-v2/assets/01-baja-editorial.png",
+      "bytes": 3177161,
+      "sha256": "f3931bb5f80011455daf24008727f24b92cc9f4018b211a0528be2b38c10e8a4"
+    },
+    {
+      "path": "archive/raw-bloom/creative-territory-v2/assets/02-creator-portrait.png",
+      "bytes": 2201478,
+      "sha256": "be831e9e24c0667949a5dfb8df708f1b3b6e598ef85cb0e0410f120b320a26df"
+    },
+    {
+      "path": "archive/raw-bloom/creative-territory-v2/assets/03-material-wave.png",
+      "bytes": 2692708,
+      "sha256": "872e2358143b5456af7a0d91bc0bf036585351ff274a57a749a21b9107f835a8"
+    },
+    {
+      "path": "archive/raw-bloom/creative-territory-v2/assets/flow-lines-ink.svg",
+      "bytes": 20704,
+      "sha256": "55176ee818419efb98f05b14d6e1500e2f1856000f70d5f9e9b392ca96690348"
+    },
+    {
+      "path": "archive/raw-bloom/creative-territory-v2/assets/flow-lines-light.svg",
+      "bytes": 19726,
+      "sha256": "248c2b08e00e2c4a9f0f37cb31b0995adf2dbcb87a83fb0541cb2c54edf17040"
+    },
+    {
+      "path": "archive/raw-bloom/creative-territory-v2/assets/mineral-gradient.svg",
+      "bytes": 314,
+      "sha256": "26632fe2587ffb304aa5e92084f91ca7b9920c55e6d5676e3dcba124f90aaa2c"
+    },
+    {
+      "path": "archive/raw-bloom/creative-territory-v2/prompts.json",
+      "bytes": 3761,
+      "sha256": "050a1339b48c625929238e82b9248774ce05428c25c95386c06ea26d8f1176a4"
+    },
+    {
+      "path": "archive/raw-bloom/edge-brand-board-v1/Capptus-Edge-Brand-Board-v1.pdf",
+      "bytes": 28386177,
+      "sha256": "e2cd42092b9de8837e9beddd1458e1962a57850dd9c6c59a578909a11c0b1191"
+    },
+    {
+      "path": "archive/raw-bloom/edge-brand-board-v1/Capptus-Edge-Brand-Board-v1.png",
+      "bytes": 7714689,
+      "sha256": "e0102b4813a5d7282db20bfb86a9f693642a5b66e8d4db9d6d7fd8141e89af9c"
+    },
+    {
+      "path": "archive/raw-bloom/edge-brand-board-v1/Capptus-Edge-Brand-Board-v1.svg",
+      "bytes": 22809393,
+      "sha256": "3bc01da1781354a6329a2d39d62712f59fc854b2c48b6145946273ad5cd1a202"
+    },
+    {
+      "path": "archive/raw-bloom/edge-brand-board-v1/README.md",
+      "bytes": 2343,
+      "sha256": "7aa8bb607b7e1d998516bbacf57391c2cb068f9beaf0aafc6ef4744f63a4888c"
+    },
+    {
+      "path": "archive/raw-bloom/edge-brand-board-v1/assets/billboard.png",
+      "bytes": 2870121,
+      "sha256": "8ee9037258486a666799081c47ea907e9c6ae52b31904ca62197dd0b71a2f0be"
+    },
+    {
+      "path": "archive/raw-bloom/edge-brand-board-v1/assets/hoodie.png",
+      "bytes": 2322847,
+      "sha256": "300686e5b7d5d219bf1894c050bcaf2b7f61f9cea25cd9e705cc41faa4f516c0"
+    },
+    {
+      "path": "archive/raw-bloom/edge-brand-board-v1/prompts.json",
+      "bytes": 1515,
+      "sha256": "bcd00ae7940acca52590616d73e99dd4c442e865bbb715ea5cd250f2ec0042b2"
+    },
+    {
+      "path": "archive/raw-bloom/raw-bloom-image-series-v1/README.md",
+      "bytes": 2324,
+      "sha256": "fa8c19b20df7edfc3d8efe382e08b0b635efe2020a9dd58563d5a27ce2d3a19d"
+    },
+    {
+      "path": "archive/raw-bloom/raw-bloom-image-series-v1/contact-sheet.png",
+      "bytes": 4287280,
+      "sha256": "1637ee7047278a365a717ddad9c31e7c847510abf9ad16526e137ee38a8eab32"
+    },
+    {
+      "path": "archive/raw-bloom/raw-bloom-image-series-v1/images/01-coastal-pulse.png",
+      "bytes": 2808182,
+      "sha256": "a6290a0e92ccaaad92508c4647305dd484a1aaadfc749e492535b2a9fd9df795"
+    },
+    {
+      "path": "archive/raw-bloom/raw-bloom-image-series-v1/images/02-hands-in-the-making.png",
+      "bytes": 2814419,
+      "sha256": "da181d1b24aeb1de580966946d8d7abd74ccd2cda48cdee77c9b65a5c6309361"
+    },
+    {
+      "path": "archive/raw-bloom/raw-bloom-image-series-v1/images/03-human-frequency.png",
+      "bytes": 2556340,
+      "sha256": "6c61182d750588ee381b58a45ec722c6ff24de528c6e49ee2733a5d338862db5"
+    },
+    {
+      "path": "archive/raw-bloom/raw-bloom-image-series-v1/images/04-ideas-in-conversation.png",
+      "bytes": 2336159,
+      "sha256": "8a23b35bfa2af96b3ecbfc4ca5495ccc0f8ef67faf0cdef1017dbe21cf865507"
+    },
+    {
+      "path": "archive/raw-bloom/raw-bloom-image-series-v1/images/05-resilient-bloom.png",
+      "bytes": 2454690,
+      "sha256": "1e3f493c7d80297e7e478e41d4379879e8fa9a70f00cfb300a9cde50d3ece3fc"
+    },
+    {
+      "path": "archive/raw-bloom/raw-bloom-image-series-v1/images/06-ribbon-ascent.png",
+      "bytes": 2226731,
+      "sha256": "9a7f6fab5a91dfcfb2099b535951a52cf8905dc718f27ffeae1e0c67b18832fd"
+    },
+    {
+      "path": "archive/raw-bloom/raw-bloom-image-series-v1/images/07-tension-and-flow.png",
+      "bytes": 2396805,
+      "sha256": "538e1055dd926f6bfc7c9885c74f7c4edb526458ab85216874a9f6191a7fb936"
+    },
+    {
+      "path": "archive/raw-bloom/raw-bloom-image-series-v1/images/08-mineral-light.png",
+      "bytes": 3663900,
+      "sha256": "64ab5217801e1bc8d6167c64a9475c7afb296ea63d74eddd79dbb14690ba27ab"
+    },
+    {
+      "path": "archive/raw-bloom/raw-bloom-image-series-v1/images/09-human-momentum.png",
+      "bytes": 2656248,
+      "sha256": "13c90fd92a22b2c54fb40bff2e9551c40f2c094e72e758fd24efe685fc77fdfc"
+    },
+    {
+      "path": "archive/raw-bloom/raw-bloom-image-series-v1/images/10-reflected-material.png",
+      "bytes": 3080661,
+      "sha256": "b97710164b42bdc53aa642a2d5af737631c01d6412596a8d2806fcfbfb1a78e1"
+    },
+    {
+      "path": "archive/raw-bloom/raw-bloom-image-series-v1/manifest.json",
+      "bytes": 3467,
+      "sha256": "93cb470770e595e95bf23ede9ec9753366ae7ec5087a173cabe81b23924ec45b"
+    },
+    {
+      "path": "archive/raw-bloom/raw-bloom-image-series-v1/prompts.json",
+      "bytes": 15800,
+      "sha256": "5e74a8ed89700bf095ac6c9978045e2508210862b52bf46aa9213a43e60d2eb0"
+    }
+  ]
+}

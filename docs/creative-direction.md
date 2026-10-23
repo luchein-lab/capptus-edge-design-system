@@ -1,5 +1,7 @@
 # Creative direction review 01
 
+Historical document. [Mineral Bloom](../design.md) superseded these routes as the company-wide repository baseline on 23 October 2026. The text below records the earlier review and its then-open decisions.
+
 9 October 2026. **Historical route comparison.** On 12 October the user preferred route 3, Raw Bloom. The original recommendation below is retained as exploration history; it is superseded by that preference. Production tokens remain unapproved.
 
 ## The next decision

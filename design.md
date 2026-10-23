@@ -1,48 +1,79 @@
-# Capptus Edge — design system
+# Capptus Mineral Bloom design system
 
-Status: exploration v0.3, 12 October 2026. This is the evolving specification; no production visual tokens or components are approved yet.
+Version 1.0, 23 October 2026. Selected company-wide repository baseline. This supersedes the earlier Edge-only Raw Bloom direction; historical boards remain in the archive.
 
-## Identity
+## Identity and existing language
 
-Capptus Edge is the bold, rebellious digital agency side of Capptus. Preserve the existing logo and tagline. The supplied moodboard is an exploratory reference, and the credentials deck provides existing expression and language. See [reference notes](docs/reference-notes.md).
+Use the verified [original logo](assets/logo/capptus-original.png) without recolouring, retyping, distortion or reconstruction. Its blue and gray artwork remains unchanged. The surrounding signature-blue token does not authorize changes to the logo itself. No new wordmark or Edge lockup is introduced.
 
-Do not substitute the moodboard wordmark for the existing logo. The original corporate logo has been located and hash-verified; use that exact artwork. A separate canonical Edge lockup remains unverified. Do not reconstruct a logo from type or AI generation.
+Preserve these supplied strings:
 
-## Existing language
+- “Menos ruido, más crecimiento”
+- “Your Digital Oasis for Growth”
+- “HUMAN CRAFTED. AI AMPLIFIED. SCALED WITH SALESFORCE.”
 
-Preserve these source strings without creating a new tagline:
+The visual reference uses them as specimens. Selection of a visual direction does not rewrite company positioning or validate commercial claims.
 
-- “Menos ruido, más crecimiento” — deck cover, case normalized here for documentation.
-- “Your Digital Oasis for Growth” — deck closing page.
-- “HUMAN CRAFTED. AI AMPLIFIED. SCALED WITH SALESFORCE.” — supporting cover statement.
+## Colour
 
-Their final hierarchy is open. Concept slogans in the moodboard are not approved replacements.
+The source of truth is [mineral-bloom.json](tokens/mineral-bloom.json); the CSS is generated from it.
 
-## Creative direction to explore
-
-The [first creative direction review](docs/creative-direction.md) compares Electric Oasis, Blue Voltage, and Raw Bloom. On 12 October 2026 the user expressed a strong preference for Raw Bloom and requested a corporate/Edge coexistence comparison. The latest proposed study is in `output/coexistence-v1/`; shared limestone and Montserrat are proposed connections for Edge. These are internal route labels, not brand copy. The original corporate logo has now been located and verified against its source provenance; a separate canonical Edge lockup remains unverified.
-
-**Proposed:** bold scale, direct language, human creativity, organic forms and electric contrast. Use the moodboard's material warmth and digital cactus play alongside the deck's blue/yellow energy and creator culture. Exploration must resolve how these coexist rather than silently merging every reference color.
-
-## Specification status
-
-| Area | Known foundation | Next decision |
+| Token | Value | Use |
 | --- | --- | --- |
-| Logo | Existing identity is fixed | Corporate master verified; resolve Edge lockup and usage rules |
-| Copy | Existing deck wording is preserved | Confirm tagline hierarchy and language variants |
-| Color | Moodboard swatches documented; deck uses strong blue/yellow | Approve roles, values, contrast pairs, and variants |
-| Typography | Oversized heavy sans type appears in both references | Identify/select licensed families, weights, and scale |
-| Layout | Editorial asymmetry and deck content panels | Define grids, spacing, responsive behavior |
-| Imagery | Baja nature, digital organic forms, creators, people | Set image roles, treatments, sourcing and AI provenance rules |
-| Icons | No approved Edge set supplied | Define style and functional coverage |
-| Motion | No motion source supplied | Explore behavior with reduced-motion alternatives |
-| Components | Not implemented | Scope the first showcase and reusable primitives |
-| Accessibility | Production target to establish | Validate contrast, keyboard/focus, semantics and motion |
+| limestone | `#F3E8D7` | Main backgrounds, breathing space and business documents |
+| mineral-ink | `#23332F` | Headlines, body copy, controls and dark panels |
+| warm-coral | `#E89B86` | Leading expressive panels and editorial emphasis |
+| sun-citron | `#D5D83E` | Small accents and selected emphasis |
+| signature-blue | `#0094E2` | Small recurring graphic details |
 
-## Proposed first applications
+Begin with limestone and mineral ink. Choose one leading expressive colour per composition. Use citron sparingly; the collages already contain energetic accents. Blue should remain visible in deliberate details without becoming the main background. No universal coverage percentages are required.
 
-An agency introduction, a service section, a process/growth-loop module, a proof/case-study module with explicit attribution, and a contact area. These are candidate showcase applications, not a request to build a full website in this setup phase.
+The five hex values are sRGB screen values. Print conversions and material proofs have not been established.
 
-## Implementation policy
+## Contrast and functional roles
 
-Record approved decisions in [the decision log](docs/decisions.md) before promoting explorations into production assets or tokens. Keep token definitions in one source of truth and derive implementation formats after choosing the stack. Do not import corporate-system fonts, tokens, or components as Edge approvals by default.
+| Foreground / background | Ratio | Reference use |
+| --- | --- | --- |
+| Mineral ink / limestone | 10.93:1 | Body text and headlines |
+| Mineral ink / warm coral | 5.97:1 | Text on expressive panels |
+| Mineral ink / sun citron | 8.65:1 | Labels on accents |
+| Limestone / mineral ink | 10.93:1 | Inverse text and primary action |
+| Signature blue / limestone | 2.74:1 | Nonessential decoration only |
+
+The selected text pairs exceed the 4.5:1 normal-text minimum. Blue on limestone does not reach the 3:1 threshold either; do not use that pairing for small text, essential icons, borders that identify controls, or focus indicators. Blue also cannot be assumed safe for white text or buttons. Use the documented mineral-ink action with limestone text.
+
+Use underlined text links, visible keyboard focus and labels independent of colour. The reference uses a mineral-ink focus outline. Its logo is unchanged artwork; logotype exemptions do not extend to ordinary interface text. Pair calculations are not a complete accessibility audit.
+
+## Typography
+
+| Role | Family | Reference weight |
+| --- | --- | --- |
+| Display and headlines | Bricolage Grotesque | 700 |
+| Body and controls | Manrope | 400 |
+| Labels and emphasis | Manrope | 600 |
+
+The font families were selected previously and are retained in Mineral Bloom. Weights, fluid sizes and spacing in the visual reference are implementation choices. Use large expressive headlines, readable body text, and short labels. Preserve Spanish accents and avoid using lettering as a substitute for the original logo.
+
+Bundled WOFF2 files support the demonstrated Latin and Spanish text. Other scripts require appropriate licensed font subsets. See [font provenance](assets/fonts/README.md).
+
+## Imagery and composition
+
+The [six selected Baja collages](assets/imagery/baja/README.md) establish material warmth: cream torn paper, coral flowers and folds, sunlit rock, cactus texture, muted sea blue, and small citron details. Preserve the source images. Do not recolour every photograph to force exact token matches.
+
+Use an orderly editorial grid and generous cream space around expressive imagery. Keep text on a solid field rather than across detailed photography. Let a single collage carry the image-led composition; avoid decorating every business page with cactus imagery.
+
+These are generated concepts, not actual client work, team photography or verified locations. The image palette is broader than the five flat system colours.
+
+## Company-wide application
+
+- Proposals and business documents: limestone and mineral ink lead; coral and imagery mark introductions or important sections.
+- Campaign and creative work: increase image scale, coral and selected citron accents while keeping the same type and logo.
+- Interfaces: use the functional text/action pairs above; derive additional semantic status colours only when real product requirements justify them.
+
+Mineral Bloom is one shared visual system. It does not assign separate palettes or new logos to each Capptus practice.
+
+## Implementation and validation
+
+Use the [portable visual reference](index.html) and [tokens](tokens/README.md) together. Regenerate CSS after token changes. Run `python3 scripts/check_project.py` for file integrity, local links, token agreement, source checks and contrast checks.
+
+See the [validation record](docs/validation.md) for completed checks and limits. A full production component library, print specifications, audience testing and application-specific accessibility audits remain future work.

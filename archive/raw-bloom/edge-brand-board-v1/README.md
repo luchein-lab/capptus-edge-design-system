@@ -1,5 +1,7 @@
 # Capptus Edge — Brand Board v1
 
+Historical collection. Superseded by [Mineral Bloom](../../../design.md) on 23 October 2026. Retained assets and descriptions below document the original exploration.
+
 12 October 2026. A portrait brand-expression board inspired by the user's supplied reference structure, using the existing Capptus Edge Raw Bloom direction.
 
 ## Deliverables

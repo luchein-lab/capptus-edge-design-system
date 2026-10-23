@@ -1,0 +1,101 @@
+{
+  "status": "Mineral Bloom current assets, 23 October 2026",
+  "path_base": "repository root",
+  "files": [
+    {
+      "path": "assets/README.md",
+      "bytes": 826,
+      "sha256": "de4c6fef9f67a1fb20d4bfa730f4e513e672f72645e4be6610cf6a1511f74765"
+    },
+    {
+      "path": "assets/fonts/README.md",
+      "bytes": 812,
+      "sha256": "6002bf789c34af3fd66017ae8a2af1e0c9d4ab2d98ce007e98c6eb0b69bc4ab3"
+    },
+    {
+      "path": "assets/fonts/bricolage-grotesque-OFL.txt",
+      "bytes": 4402,
+      "sha256": "46ba5f18ee20ea529f21d96c0ef8637a8314c1a5cfb2aa84018bc8157cbeff41"
+    },
+    {
+      "path": "assets/fonts/bricolage-grotesque-latin.woff2",
+      "bytes": 76868,
+      "sha256": "85f55a58a31e61a2e19e8bb25fed503181bf2a6b4cab76c589992cfaac377447"
+    },
+    {
+      "path": "assets/fonts/google-fonts-source.txt",
+      "bytes": 3694,
+      "sha256": "c7b1700317843f19e3a68f0b4ee311b15fa2ea36aebdf51f8d01879d5f5ba6b9"
+    },
+    {
+      "path": "assets/fonts/manrope-OFL.txt",
+      "bytes": 4386,
+      "sha256": "d6a309fcfb963d329a93baf9df66fa5f3c23a4be2b5f67edf24d6cafecde12ac"
+    },
+    {
+      "path": "assets/fonts/manrope-latin.woff2",
+      "bytes": 24576,
+      "sha256": "e310b55a7fd9677f5e3555e6c6c4d064fa1f1d24393f0ddbe217cea12a8c432f"
+    },
+    {
+      "path": "assets/imagery/baja/README.md",
+      "bytes": 1291,
+      "sha256": "36320721b760c06ffe9d40925f913b9e902b2662c9b648d64cf7e4c2ef0c86de"
+    },
+    {
+      "path": "assets/imagery/baja/contact-sheet.png",
+      "bytes": 2787596,
+      "sha256": "c56841561e582b1d2eda23d6ef8c8e57a0ec3e14dd83b3d2447392608daceb0c"
+    },
+    {
+      "path": "assets/imagery/baja/images/01-cardon-and-cove.png",
+      "bytes": 3170229,
+      "sha256": "837be177acb3d7052d385a7794531c785eac586d548621cf83ad9a2044ddfd2e"
+    },
+    {
+      "path": "assets/imagery/baja/images/02-dunes-and-bloom.png",
+      "bytes": 2877833,
+      "sha256": "602e90c787a05809de4917810fef60dc00938109706a1328f66e68274f8c9e0c"
+    },
+    {
+      "path": "assets/imagery/baja/images/03-tidal-stone.png",
+      "bytes": 3585900,
+      "sha256": "4796f262f87a6a756820538a5b8f18250a64da191fe15ecb999c4c1fcae1b510"
+    },
+    {
+      "path": "assets/imagery/baja/images/04-desert-spines.png",
+      "bytes": 3098036,
+      "sha256": "c939c597acf84f5c8588ab88090a295202444af88cdb1483d5152035646213a0"
+    },
+    {
+      "path": "assets/imagery/baja/images/05-coastal-horizon.png",
+      "bytes": 3171785,
+      "sha256": "d434ca1deef822a27977d2a2ea01e623d033f4967a1873b33a647be74bb47a6e"
+    },
+    {
+      "path": "assets/imagery/baja/images/06-mineral-arch.png",
+      "bytes": 3316401,
+      "sha256": "dcf7ed39fc6fb9edae4e51e539d67733dd0d61c2624f87e05a0551ca3de6dfa5"
+    },
+    {
+      "path": "assets/imagery/baja/manifest.json",
+      "bytes": 2267,
+      "sha256": "6676dab4a3ee8095a7e7547dbffd31bf513858a489bc536626f5e4c6f65363a6"
+    },
+    {
+      "path": "assets/imagery/baja/prompts.json",
+      "bytes": 11275,
+      "sha256": "ec7797f2292469e416dcb709ad03ca6d09e8752118911142d571492348356cb9"
+    },
+    {
+      "path": "assets/logo/capptus-original.png",
+      "bytes": 14336,
+      "sha256": "55f5309be7b3d0e8c36c35c99188a98a6451e15c461bf03ea815af8fb2c73886"
+    },
+    {
+      "path": "assets/mineral-bloom-preview.jpg",
+      "bytes": 100634,
+      "sha256": "30d385bb596867801fb52c8e15bd1b78b528a2560dc7c4e59dc4d8e80190e024"
+    }
+  ]
+}

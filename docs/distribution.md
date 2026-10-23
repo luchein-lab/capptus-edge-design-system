@@ -1,23 +1,26 @@
 # Distribution and provenance
 
-This repository contains Capptus brand work and exploratory review assets. Repository access does not grant an open-source license to the artwork, marks, typography, or reference material.
+This public repository contains the selected Capptus Mineral Bloom system and an archive of earlier exploration. Public access does not grant an open-source license to Capptus marks, artwork or generated brand imagery.
 
 ## Included
 
-- Project documentation and source-reference index.
-- Two finished boards in PDF, PNG and outlined SVG.
-- Nineteen standalone concept images, two blank mockup photographs, and three editable graphic assets.
-- Exact image-generation prompts, collection notes and integrity manifests.
-- Original Capptus logo, preserved byte-for-byte from the corporate system master.
+- Mineral Bloom specification, tokens and portable visual reference.
+- Original Capptus logo, preserved byte-for-byte.
+- Six unchanged, previously published Baja concept collages and their generation prompts.
+- Bricolage Grotesque and Manrope WOFF2 files with their original SIL Open Font License notices and recorded Google Fonts source URLs.
+- Historical boards, concept assets and prompts, clearly separated in the archive.
+- Research source links and validation records.
 
 ## Kept local
 
-Original credentials deck, inspiration screenshots, source-deck renders, third-party reference boards, intermediate outputs, workstation-specific build scripts, caches and font binaries. Source reference filenames and checksums remain indexed for provenance; a fresh clone can validate without those local reference binaries.
+Original credentials decks, inspiration screenshots, third-party reference artwork, local preview wrappers, intermediate outputs, caches and workstation configuration. No private reference file is required to open the published visual reference. The source index can skip absent external references on a fresh clone.
 
-## Interpretation limits
+## Status and attribution
 
-Raw Bloom is the user-preferred creative route. Supporting palette roles, typography, waveform language, gradients and applications remain proposals. Generated people are fictional; generated landscapes are conceptual Baja-inspired scenes. They must not be presented as actual staff, clients, commissioned projects or verified locations.
+Mineral Bloom is the user-selected repository baseline as of 23 October 2026. Detailed component behaviour and production print standards are not established by this release. Historical boards retain their original typography and colour studies and are superseded as active guidance.
 
-Impact appears as a local display study in the existing exports. No font binaries or broader font licenses are granted here. Production typography and licensing must be resolved before implementation. PDF subsets and SVG outlines preserve the review appearance.
+The Baja scenes are generated conceptual imagery, not documentary photographs. Historical generated people are fictional. None of these assets establish actual clients, staff, locations or business results. Research case studies inform design judgment and do not endorse Capptus.
 
-Original board visual reviews are recorded in the local output workspace. Repository checks verify packaged integrity and documentation; they do not repeat or substitute for visual acceptance.
+Font software retains the license in each included OFL notice. Font licenses do not license Capptus branding. The logo must remain unchanged; do not reconstruct it from a font or recolour it to match the surrounding blue token.
+
+See [validation](validation.md) for what was checked. Integrity checks are distinct from audience acceptance and full accessibility conformance.

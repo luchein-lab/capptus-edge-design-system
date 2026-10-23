@@ -2,33 +2,33 @@
 
 ## Purpose
 
-Build a reusable design system for Capptus Edge, the bold and rebellious digital agency side of the firm. The eventual deliverable is a maintainable GitHub repository containing the documented system, reusable assets and tokens, and representative applications.
+Maintain the selected Mineral Bloom visual system for the whole Capptus company in the existing design-system repository. The earlier Edge-only exploration is historical context.
 
-## User-established constraints
+## Current instruction
 
-- Capptus already has a design system for its corporate consulting side.
-- Edge needs its own expression.
-- Use the supplied first approach as the starting point and the credentials deck for further inspiration.
-- The logo does not change. Existing tagline copy is retained.
-- The initial request covered project setup; the user authorized continuation on 9 October 2026. The current phase is creative direction exploration.
+On 23 October 2026 the user asked to push the Mineral Bloom design system to GitHub and replace what was there before. This authorizes making Mineral Bloom the current repository baseline and committing and pushing the replacement to the existing public repository.
 
-## Working interpretation — proposed, not approved
+The update includes the specification, five-colour palette, reusable JSON/CSS tokens, visual reference, original logo, selected six-image library, font files with license notices, research rationale and validation. Earlier boards move to a clearly marked archive. This does not rename the repository or publish a new hosted site.
 
-Edge can combine the moodboard's Baja landscape, material warmth, electric color, and unexpected digital forms with the deck's direct headlines, human creativity, creator culture, and measurable-growth positioning. Rebellion should be expressed through composition, scale, imagery, and motion while preserving legibility and useful hierarchy.
+## Fixed foundation
 
-## Current scope
+- Preserve the original Capptus logo artwork and supplied copy.
+- Use Bricolage Grotesque and Manrope.
+- Keep signature blue `#0094E2` in a smaller recurring role.
+- Ground the palette in the warm, tactile Baja imagery selected by the user.
+- Keep source evidence, design interpretation, selected decisions and validation distinct.
+- Keep original credentials decks, unrelated project work and local working outputs outside the public package.
 
-Maintain the project foundation and develop a small creative-direction comparison grounded in the two original inputs. Preserve those sources and present proposals for selection before establishing production tokens.
+## Selected direction
 
-## Later deliverables
+Mineral Bloom combines limestone `#F3E8D7`, mineral ink `#23332F`, warm coral `#E89B86`, sun citron `#D5D83E`, and signature blue `#0094E2`. It extends the human, tactile qualities of Raw Bloom into a company-wide visual system.
 
-A resolved visual direction; approved logo assets and usage rules; typography and color tokens; layout, imagery, iconography and motion guidance; reusable components; and a showcase demonstrating the system across agency use cases.
+## Completion for this publication
 
-## Completion criteria for the full system
-
-- Existing logo and tagline remain intact and traceable to the canonical assets/copy.
-- Decisions are documented with explicit status.
-- Tokens and components agree with the approved specification.
-- Representative applications demonstrate the system, including responsive and accessible behavior where relevant.
-- Files, fonts, imagery, and source materials have an appropriate distribution status before repository publication.
-- Build, visual, and accessibility checks are recorded at the level actually performed.
+- Mineral Bloom is the primary README, specification and visual reference.
+- Tokens match the selected values and reference implementation.
+- Original logo and image hashes are preserved.
+- Earlier boards are clearly historical, with functioning links.
+- The package works without private local files or a ChatGPT runtime.
+- Applicable static and browser checks pass.
+- The published main-branch commit is verified against the local commit.

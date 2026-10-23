@@ -1,5 +1,7 @@
 # Capptus Edge — Raw Bloom / In Motion
 
+Historical collection. Superseded by [Mineral Bloom](../../../design.md) on 23 October 2026. Retained assets and descriptions below document the original exploration.
+
 Creative territory board 02, 12 October 2026. A 16:9 founder-review composition with a matching 4K PNG, vector SVG, and presentation PDF.
 
 The territory connects Baja materiality, human creative practice and continuous movement. Three distinct images establish a coherent world: cactus/canyon collage, a fictional creative at work, and a physical paper-wave still life. Large condensed headlines and Montserrat retain the reviewed typography direction. Mineral gradients and continuous flow lines extend the material language into digital expression. The editorial specimen demonstrates the identity without relying on photography.

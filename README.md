@@ -1,54 +1,56 @@
-# Capptus Edge Design System
+# Capptus Mineral Bloom
 
-**Raw Bloom / In Motion** — Baja materiality. Human expression. Digital momentum.
+The company-wide Capptus design-system baseline, selected on 23 October 2026. Mineral Bloom replaces Raw Bloom as the active direction in this repository.
 
-The evolving design system for Capptus Edge, the bold digital agency side of Capptus. Current work includes presentation boards, concept imagery, and graphic explorations. Raw Bloom is the preferred creative route; production typography, palette roles, tokens, and components remain subject to approval.
+![Mineral Bloom visual reference](assets/mineral-bloom-preview.jpg)
 
-![Creative territory](explorations/creative-territory-v2/Capptus-Edge-Creative-Territory-v2.png)
+Warm limestone, mineral ink, coral and sun citron support the Baja collage imagery. Signature blue stays in small recurring details. The original Capptus logo and supplied wording remain unchanged.
 
-## Boards and image libraries
+## Start here
 
-| Collection | Deliverables |
-| --- | --- |
-| [Creative territory](explorations/creative-territory-v2/README.md) | Landscape board in PDF, PNG and SVG; 3 images; 3 vector graphics |
-| [Brand board](explorations/edge-brand-board-v1/README.md) | Portrait board in PDF, PNG and SVG; signage, mobile, stationery, apparel and poster concepts |
-| [Raw Bloom / In Motion](explorations/raw-bloom-image-series-v1/README.md) | 10 standalone images and contact sheet |
-| [Baja collages](explorations/baja-collage-series-v1/README.md) | 6 desert/coast collages and contact sheet |
+- [Visual reference](index.html): portable, self-contained documentation using local assets and fonts. Clone the repository and use the local preview command below. GitHub's file view shows the source.
+- [Design specification](design.md): palette, typography, imagery, layout and accessible colour pairs.
+- [JSON tokens](tokens/mineral-bloom.json) and [generated CSS](tokens/mineral-bloom.css).
+- [Selected Baja imagery](assets/imagery/baja/README.md) and [original logo](assets/README.md).
+- [Research basis](docs/mineral-bloom-research.md), [decision log](docs/decisions.md) and [validation record](docs/validation.md).
 
-Exact image-generation prompts accompany each collection. SVG boards contain outlined type and embedded imagery; PDFs retain native typography. Workstation-specific authoring scripts and intermediate renders remain local.
+## Selected palette
 
-## Brand foundation
+| Colour | Hex | Role |
+| --- | --- | --- |
+| Limestone | `#F3E8D7` | Foundation and primary surface |
+| Mineral ink | `#23332F` | Type, structure and dark surfaces |
+| Warm coral | `#E89B86` | Leading expressive colour |
+| Sun citron | `#D5D83E` | Small energetic accents |
+| Signature blue | `#0094E2` | Small recurring signature details |
 
-- [Design specification](design.md)
-- [Project brief](docs/project-brief.md)
-- [Decisions and approval status](docs/decisions.md)
-- [Reference observations](docs/reference-notes.md)
-- [Historical route comparison](docs/creative-direction.md)
-- [Roadmap](docs/roadmap.md)
-- [Verified original logo](assets/README.md)
-- [Distribution and provenance](docs/distribution.md)
+Bricolage Grotesque is the display family; Manrope supports body copy, labels and controls. The reference implementation documents weights and semantic roles without claiming to be a complete product component library.
 
-The original logo and existing tagline remain unchanged. EDGE shown beside the logo is an editorial descriptor, not an approved replacement lockup. Generated people and landscapes are concepts, not evidence of actual team members or projects. Impact is a local display study; no font files are distributed.
+## Use and validate
+
+Import `tokens/mineral-bloom.css` into an implementation, or consume the JSON source. Edit the JSON and regenerate the CSS with:
+
+```sh
+python3 scripts/build_tokens.py
+python3 scripts/check_project.py
+```
+
+No dependency installation is required for the documentation or checks. The visual reference works offline. For local browser review, run `python3 -m http.server 8000 --bind 127.0.0.1` and open `http://127.0.0.1:8000`.
 
 ## Structure
 
 ```text
-design.md                 Evolving design-system specification
-docs/                     Brief, evidence, decisions, roadmap and distribution
-explorations/             Portable boards, concept images, graphics and prompts
-assets/logo/              Verified original Capptus artwork
-tokens/                   Reserved for approved implementation tokens
-sources/manifest.json     Index of original local references
-output/                   Local working files and QA records; ignored by Git
-scripts/check_project.py  Documentation, reference and release-integrity checks
+index.html                 Mineral Bloom visual reference
+styles/                    Reference layout and locally hosted font styles
+tokens/                    Selected palette, aliases and typography
+assets/                    Original logo, licensed fonts and selected imagery
+docs/                      Specification context, decisions and research
+archive/raw-bloom/         Superseded boards and exploration assets
+sources/manifest.json      Source provenance
+scripts/                   Token generation and package validation
+output/                    Local working material, excluded from Git
 ```
 
-## Validate
+Earlier work is retained in the [historical archive](archive/raw-bloom/README.md). Its colours and older typography are not current system guidance. The repository name remains unchanged for continuity: [luchein-lab/capptus-edge-design-system](https://github.com/luchein-lab/capptus-edge-design-system).
 
-Run `python3 scripts/check_project.py`. It checks required files, Markdown links, available local source checksums, and the packaged asset manifest. These checks do not establish visual approval, accessibility, or working application behavior.
-
-No dependency installation or application build is required. Implementation stack and showcase scope remain open. Original decks, screenshots, intermediate files, and font binaries are excluded from the repository. No open-source license is granted; see the distribution notes.
-
-## Repository
-
-Public repository: [luchein-lab/capptus-edge-design-system](https://github.com/luchein-lab/capptus-edge-design-system). Public access does not change the approval status or grant an open-source license to brand assets.
+Capptus artwork remains proprietary. Bundled font files retain their SIL Open Font License notices. See [distribution and provenance](docs/distribution.md).
